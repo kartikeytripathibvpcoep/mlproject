@@ -1,5 +1,9 @@
 pandas
 numpy
 flask
-
--e .
+matplotlib
+seaborn
+scikit-learn
+catboost
+xgboost
+#-e .
